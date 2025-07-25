@@ -8,6 +8,7 @@ For my placement purpose
 | ------- |
 | [0007-reverse-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0009-palindrome-number) |
+| [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 ## Array
 |  |
 | ------- |
