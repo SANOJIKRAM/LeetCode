@@ -7,4 +7,5 @@ For my placement purpose
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
