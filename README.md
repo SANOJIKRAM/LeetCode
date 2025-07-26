@@ -14,6 +14,7 @@ For my placement purpose
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [1293-three-consecutive-odds](https://github.com/SANOJIKRAM/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## String
 |  |
 | ------- |
