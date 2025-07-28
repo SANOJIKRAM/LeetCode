@@ -8,6 +8,7 @@ For my placement purpose
 | ------- |
 | [0007-reverse-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 ## Array
 |  |
@@ -18,6 +19,7 @@ For my placement purpose
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -26,6 +28,7 @@ For my placement purpose
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
