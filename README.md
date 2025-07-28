@@ -14,6 +14,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
 | [1293-three-consecutive-odds](https://github.com/SANOJIKRAM/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -36,4 +37,8 @@ For my placement purpose
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
