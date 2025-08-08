@@ -49,6 +49,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0908-middle-of-the-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,4 +63,8 @@ For my placement purpose
 | ------- |
 | [0217-contains-duplicate](https://github.com/SANOJIKRAM/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
