@@ -19,6 +19,7 @@ For my placement purpose
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/SANOJIKRAM/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/SANOJIKRAM/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ For my placement purpose
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
