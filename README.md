@@ -60,6 +60,7 @@ For my placement purpose
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/SANOJIKRAM/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +78,8 @@ For my placement purpose
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0020-valid-parentheses) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/SANOJIKRAM/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
