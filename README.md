@@ -10,6 +10,7 @@ For my placement purpose
 | [0009-palindrome-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SANOJIKRAM/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 ## Array
@@ -84,4 +85,12 @@ For my placement purpose
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SANOJIKRAM/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
