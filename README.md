@@ -30,6 +30,7 @@ For my placement purpose
 | ------- |
 | [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
@@ -71,4 +72,8 @@ For my placement purpose
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
