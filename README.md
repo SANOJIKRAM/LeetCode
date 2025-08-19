@@ -25,6 +25,7 @@ For my placement purpose
 | [0035-search-insert-position](https://github.com/SANOJIKRAM/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SANOJIKRAM/LeetCode/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/SANOJIKRAM/LeetCode/tree/master/0217-contains-duplicate) |
@@ -80,6 +81,7 @@ For my placement purpose
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
