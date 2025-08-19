@@ -11,6 +11,7 @@ For my placement purpose
 | [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SANOJIKRAM/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 ## Array
@@ -45,6 +46,7 @@ For my placement purpose
 | ------- |
 | [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SANOJIKRAM/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
@@ -57,6 +59,7 @@ For my placement purpose
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SANOJIKRAM/LeetCode/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
