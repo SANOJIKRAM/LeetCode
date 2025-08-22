@@ -45,6 +45,7 @@ For my placement purpose
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/SANOJIKRAM/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Trie
 |  |
 | ------- |
