@@ -16,6 +16,7 @@ For my placement purpose
 | [0263-ugly-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Array
 |  |
 | ------- |
@@ -126,4 +127,8 @@ For my placement purpose
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
