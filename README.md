@@ -16,6 +16,7 @@ For my placement purpose
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Array
@@ -135,4 +136,12 @@ For my placement purpose
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
