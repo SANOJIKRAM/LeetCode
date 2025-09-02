@@ -9,6 +9,7 @@ For my placement purpose
 | [0007-reverse-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SANOJIKRAM/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -114,6 +115,7 @@ For my placement purpose
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
 ## Memoization
@@ -148,4 +150,8 @@ For my placement purpose
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
