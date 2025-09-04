@@ -35,6 +35,7 @@ For my placement purpose
 | [0217-contains-duplicate](https://github.com/SANOJIKRAM/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
+| [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1293-three-consecutive-odds](https://github.com/SANOJIKRAM/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## String
 |  |
@@ -48,6 +49,7 @@ For my placement purpose
 | [0205-isomorphic-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [1954-replace-all-digits-with-characters](https://github.com/SANOJIKRAM/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
