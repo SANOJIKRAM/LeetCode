@@ -28,6 +28,7 @@ For my placement purpose
 | [0027-remove-element](https://github.com/SANOJIKRAM/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SANOJIKRAM/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SANOJIKRAM/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -48,6 +49,7 @@ For my placement purpose
 | [0014-longest-common-prefix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SANOJIKRAM/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -180,6 +182,7 @@ For my placement purpose
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -188,9 +191,14 @@ For my placement purpose
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
