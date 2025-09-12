@@ -42,6 +42,7 @@ For my placement purpose
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
+| [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 | [1293-three-consecutive-odds](https://github.com/SANOJIKRAM/LeetCode/tree/master/1293-three-consecutive-odds) |
 ## String
 |  |
@@ -97,6 +98,7 @@ For my placement purpose
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -115,6 +117,7 @@ For my placement purpose
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
+| [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -197,10 +200,12 @@ For my placement purpose
 | ------- |
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
+| [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 ## Backtracking
 |  |
 | ------- |
