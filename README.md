@@ -40,6 +40,7 @@ For my placement purpose
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0724-find-pivot-index) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
@@ -210,4 +211,8 @@ For my placement purpose
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
