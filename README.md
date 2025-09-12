@@ -19,6 +19,7 @@ For my placement purpose
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
+| [3462-vowels-game-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ For my placement purpose
 | [1954-replace-all-digits-with-characters](https://github.com/SANOJIKRAM/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -174,10 +176,12 @@ For my placement purpose
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
+| [3462-vowels-game-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
+| [3462-vowels-game-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
 | ------- |
