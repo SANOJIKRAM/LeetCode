@@ -149,11 +149,13 @@ For my placement purpose
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 ## Interactive
@@ -224,6 +226,7 @@ For my placement purpose
 | ------- |
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -262,6 +265,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -270,4 +274,5 @@ For my placement purpose
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
