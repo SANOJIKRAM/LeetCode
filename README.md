@@ -51,6 +51,7 @@ For my placement purpose
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SANOJIKRAM/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -149,6 +150,7 @@ For my placement purpose
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SANOJIKRAM/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
@@ -159,6 +161,7 @@ For my placement purpose
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SANOJIKRAM/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
