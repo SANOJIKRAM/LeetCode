@@ -45,6 +45,7 @@ For my placement purpose
 | [0661-image-smoother](https://github.com/SANOJIKRAM/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0724-find-pivot-index) |
+| [0741-cherry-pickup](https://github.com/SANOJIKRAM/LeetCode/tree/master/0741-cherry-pickup) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
@@ -158,6 +159,7 @@ For my placement purpose
 | [0062-unique-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
+| [0741-cherry-pickup](https://github.com/SANOJIKRAM/LeetCode/tree/master/0741-cherry-pickup) |
 ## Memoization
 |  |
 | ------- |
@@ -220,6 +222,7 @@ For my placement purpose
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 | [0661-image-smoother](https://github.com/SANOJIKRAM/LeetCode/tree/master/0661-image-smoother) |
+| [0741-cherry-pickup](https://github.com/SANOJIKRAM/LeetCode/tree/master/0741-cherry-pickup) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
