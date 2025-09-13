@@ -40,6 +40,7 @@ For my placement purpose
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
+| [0661-image-smoother](https://github.com/SANOJIKRAM/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0724-find-pivot-index) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
@@ -205,6 +206,7 @@ For my placement purpose
 | ------- |
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/SANOJIKRAM/LeetCode/tree/master/0661-image-smoother) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 ## Simulation
 |  |
