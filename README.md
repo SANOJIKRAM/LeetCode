@@ -56,6 +56,7 @@ For my placement purpose
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1293-three-consecutive-odds](https://github.com/SANOJIKRAM/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SANOJIKRAM/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
 |  |
 | ------- |
