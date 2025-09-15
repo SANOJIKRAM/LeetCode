@@ -83,6 +83,7 @@ For my placement purpose
 | [0557-reverse-words-in-a-string-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0639-decode-ways-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -111,6 +112,7 @@ For my placement purpose
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
+| [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SANOJIKRAM/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Union Find
@@ -158,6 +160,7 @@ For my placement purpose
 | [0242-valid-anagram](https://github.com/SANOJIKRAM/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 ## Linked List
 |  |
@@ -212,6 +215,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 ## Enumeration
 |  |
@@ -237,6 +241,7 @@ For my placement purpose
 | [0011-container-with-most-water](https://github.com/SANOJIKRAM/LeetCode/tree/master/0011-container-with-most-water) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 ## Depth-First Search
 |  |
@@ -302,4 +307,8 @@ For my placement purpose
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/SANOJIKRAM/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
