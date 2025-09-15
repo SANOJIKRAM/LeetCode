@@ -13,6 +13,7 @@ For my placement purpose
 | [0062-unique-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SANOJIKRAM/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
@@ -180,6 +181,7 @@ For my placement purpose
 | [0062-unique-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/SANOJIKRAM/LeetCode/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/SANOJIKRAM/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -279,15 +281,18 @@ For my placement purpose
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
