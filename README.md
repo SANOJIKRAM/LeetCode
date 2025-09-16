@@ -154,6 +154,7 @@ For my placement purpose
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
+| [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
@@ -254,11 +255,13 @@ For my placement purpose
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
+| [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
+| [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 ## Matrix
 |  |
 | ------- |
