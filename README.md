@@ -57,6 +57,7 @@ For my placement purpose
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
+| [0983-validate-stack-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1293-three-consecutive-odds](https://github.com/SANOJIKRAM/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -181,6 +182,7 @@ For my placement purpose
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
+| [0983-validate-stack-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0983-validate-stack-sequences) |
 ## Interactive
 |  |
 | ------- |
@@ -279,6 +281,7 @@ For my placement purpose
 | ------- |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
+| [0983-validate-stack-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0983-validate-stack-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SANOJIKRAM/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
