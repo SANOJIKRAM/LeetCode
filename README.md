@@ -48,6 +48,7 @@ For my placement purpose
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/SANOJIKRAM/LeetCode/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/SANOJIKRAM/LeetCode/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
@@ -159,6 +160,7 @@ For my placement purpose
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SANOJIKRAM/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/SANOJIKRAM/LeetCode/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -191,6 +193,7 @@ For my placement purpose
 | [0020-valid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
+| [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
 | [0983-validate-stack-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0983-validate-stack-sequences) |
@@ -317,6 +320,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
+| [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
 ## Tree
 |  |
@@ -345,4 +349,8 @@ For my placement purpose
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
