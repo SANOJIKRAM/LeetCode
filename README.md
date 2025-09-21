@@ -284,6 +284,7 @@ For my placement purpose
 | ------- |
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 | [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
@@ -292,6 +293,7 @@ For my placement purpose
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 | [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
@@ -339,6 +341,7 @@ For my placement purpose
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
@@ -351,6 +354,7 @@ For my placement purpose
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## String Matching
