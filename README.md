@@ -61,6 +61,7 @@ For my placement purpose
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/SANOJIKRAM/LeetCode/tree/master/0741-cherry-pickup) |
+| [0747-min-cost-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/SANOJIKRAM/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
@@ -241,6 +242,7 @@ For my placement purpose
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/SANOJIKRAM/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0741-cherry-pickup](https://github.com/SANOJIKRAM/LeetCode/tree/master/0741-cherry-pickup) |
+| [0747-min-cost-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1764-maximum-repeating-substring](https://github.com/SANOJIKRAM/LeetCode/tree/master/1764-maximum-repeating-substring) |
