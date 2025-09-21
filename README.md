@@ -21,6 +21,7 @@ For my placement purpose
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3462-vowels-game-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -101,6 +102,7 @@ For my placement purpose
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SANOJIKRAM/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1764-maximum-repeating-substring](https://github.com/SANOJIKRAM/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1954-replace-all-digits-with-characters](https://github.com/SANOJIKRAM/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
