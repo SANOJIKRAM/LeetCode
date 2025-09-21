@@ -103,6 +103,7 @@ For my placement purpose
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
+| [0916-decoded-string-at-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SANOJIKRAM/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1764-maximum-repeating-substring](https://github.com/SANOJIKRAM/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -212,6 +213,7 @@ For my placement purpose
 | [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
+| [0916-decoded-string-at-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [0983-validate-stack-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0983-validate-stack-sequences) |
 ## Interactive
 |  |
