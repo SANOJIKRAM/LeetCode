@@ -88,6 +88,7 @@ For my placement purpose
 | [0093-restore-ip-addresses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/SANOJIKRAM/LeetCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SANOJIKRAM/LeetCode/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0301-remove-invalid-parentheses) |
@@ -119,6 +120,7 @@ For my placement purpose
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/SANOJIKRAM/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/SANOJIKRAM/LeetCode/tree/master/0217-contains-duplicate) |
@@ -172,6 +174,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
@@ -366,5 +369,14 @@ For my placement purpose
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
