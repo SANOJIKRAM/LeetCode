@@ -179,6 +179,7 @@ For my placement purpose
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/SANOJIKRAM/LeetCode/tree/master/0401-binary-watch) |
 | [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 ## Sorting
@@ -324,6 +325,7 @@ For my placement purpose
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0301-remove-invalid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0401-binary-watch](https://github.com/SANOJIKRAM/LeetCode/tree/master/0401-binary-watch) |
 ## Prefix Sum
 |  |
 | ------- |
