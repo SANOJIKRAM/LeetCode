@@ -103,6 +103,7 @@ For my placement purpose
 | [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0639-decode-ways-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0639-decode-ways-ii) |
+| [0678-valid-parenthesis-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
@@ -219,6 +220,7 @@ For my placement purpose
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
 | [0916-decoded-string-at-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0916-decoded-string-at-index) |
@@ -242,6 +244,7 @@ For my placement purpose
 | [0576-out-of-boundary-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/SANOJIKRAM/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0639-decode-ways-ii) |
+| [0678-valid-parenthesis-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/SANOJIKRAM/LeetCode/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -297,6 +300,7 @@ For my placement purpose
 | [0011-container-with-most-water](https://github.com/SANOJIKRAM/LeetCode/tree/master/0011-container-with-most-water) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0397-integer-replacement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0397-integer-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
