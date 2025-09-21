@@ -20,6 +20,7 @@ For my placement purpose
 | [0263-ugly-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/SANOJIKRAM/LeetCode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -266,6 +267,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/SANOJIKRAM/LeetCode/tree/master/0319-bulb-switcher) |
 | [3462-vowels-game-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
 |  |
