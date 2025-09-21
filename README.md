@@ -22,6 +22,7 @@ For my placement purpose
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/SANOJIKRAM/LeetCode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3462-vowels-game-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -97,6 +98,7 @@ For my placement purpose
 | [0344-reverse-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0639-decode-ways-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0639-decode-ways-ii) |
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -151,6 +153,7 @@ For my placement purpose
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
