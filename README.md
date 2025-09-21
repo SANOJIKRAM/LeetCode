@@ -187,6 +187,7 @@ For my placement purpose
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/SANOJIKRAM/LeetCode/tree/master/0401-binary-watch) |
 | [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
@@ -233,6 +234,7 @@ For my placement purpose
 | [0097-interleaving-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/SANOJIKRAM/LeetCode/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0397-integer-replacement) |
 | [0576-out-of-boundary-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/SANOJIKRAM/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0639-decode-ways-ii) |
@@ -244,6 +246,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0397-integer-replacement) |
 ## Recursion
 |  |
 | ------- |
@@ -288,6 +291,7 @@ For my placement purpose
 | ------- |
 | [0011-container-with-most-water](https://github.com/SANOJIKRAM/LeetCode/tree/master/0011-container-with-most-water) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
+| [0397-integer-replacement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0397-integer-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
