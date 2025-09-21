@@ -163,6 +163,7 @@ For my placement purpose
 | [0074-search-a-2d-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -176,6 +177,7 @@ For my placement purpose
 | [0136-single-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
@@ -345,6 +347,7 @@ For my placement purpose
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
@@ -358,6 +361,7 @@ For my placement purpose
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## String Matching
 |  |
