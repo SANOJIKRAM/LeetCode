@@ -93,6 +93,7 @@ For my placement purpose
 | [0058-length-of-last-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/SANOJIKRAM/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/SANOJIKRAM/LeetCode/tree/master/0125-valid-palindrome) |
@@ -252,6 +253,7 @@ For my placement purpose
 | [0062-unique-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/SANOJIKRAM/LeetCode/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/SANOJIKRAM/LeetCode/tree/master/0120-triangle) |
