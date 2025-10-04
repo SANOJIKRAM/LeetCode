@@ -105,6 +105,7 @@ For my placement purpose
 | [0301-remove-invalid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SANOJIKRAM/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
@@ -170,6 +171,7 @@ For my placement purpose
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -258,6 +260,7 @@ For my placement purpose
 | [0097-interleaving-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/SANOJIKRAM/LeetCode/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0397-integer-replacement) |
 | [0576-out-of-boundary-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0576-out-of-boundary-paths) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/SANOJIKRAM/LeetCode/tree/master/0600-non-negative-integers-without-consecutive-ones) |
