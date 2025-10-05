@@ -47,6 +47,7 @@ For my placement purpose
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/SANOJIKRAM/LeetCode/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/SANOJIKRAM/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/SANOJIKRAM/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SANOJIKRAM/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
@@ -260,6 +261,7 @@ For my placement purpose
 | [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/SANOJIKRAM/LeetCode/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/SANOJIKRAM/LeetCode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0397-integer-replacement) |
