@@ -17,6 +17,7 @@ For my placement purpose
 | [0171-excel-sheet-column-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
@@ -362,6 +363,7 @@ For my placement purpose
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/SANOJIKRAM/LeetCode/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/SANOJIKRAM/LeetCode/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
@@ -462,4 +464,8 @@ For my placement purpose
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SANOJIKRAM/LeetCode/tree/master/0164-maximum-gap) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
