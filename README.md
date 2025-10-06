@@ -8,6 +8,7 @@ For my placement purpose
 | ------- |
 | [0007-reverse-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SANOJIKRAM/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SANOJIKRAM/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0048-rotate-image) |
@@ -88,6 +89,7 @@ For my placement purpose
 | ------- |
 | [0006-zigzag-conversion](https://github.com/SANOJIKRAM/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/SANOJIKRAM/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/SANOJIKRAM/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -136,6 +138,7 @@ For my placement purpose
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SANOJIKRAM/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SANOJIKRAM/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/SANOJIKRAM/LeetCode/tree/master/0041-first-missing-positive) |
