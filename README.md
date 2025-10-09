@@ -49,6 +49,7 @@ For my placement purpose
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/SANOJIKRAM/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/SANOJIKRAM/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SANOJIKRAM/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/SANOJIKRAM/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SANOJIKRAM/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -144,6 +145,7 @@ For my placement purpose
 | [0041-first-missing-positive](https://github.com/SANOJIKRAM/LeetCode/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/SANOJIKRAM/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/SANOJIKRAM/LeetCode/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/SANOJIKRAM/LeetCode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -223,6 +225,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/SANOJIKRAM/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/SANOJIKRAM/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SANOJIKRAM/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SANOJIKRAM/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
@@ -292,6 +295,7 @@ For my placement purpose
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SANOJIKRAM/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0190-reverse-bits) |
 ## Queue
 |  |
@@ -300,6 +304,7 @@ For my placement purpose
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SANOJIKRAM/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SANOJIKRAM/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
