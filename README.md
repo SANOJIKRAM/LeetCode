@@ -26,6 +26,7 @@ For my placement purpose
 | [0319-bulb-switcher](https://github.com/SANOJIKRAM/LeetCode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [1013-fibonacci-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [3462-vowels-game-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/3462-vowels-game-in-a-string) |
@@ -289,17 +290,20 @@ For my placement purpose
 | [0747-min-cost-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1013-fibonacci-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/1013-fibonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/SANOJIKRAM/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0397-integer-replacement) |
+| [1013-fibonacci-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SANOJIKRAM/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
