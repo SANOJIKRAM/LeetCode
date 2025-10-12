@@ -68,6 +68,7 @@ For my placement purpose
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/SANOJIKRAM/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0724-find-pivot-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/SANOJIKRAM/LeetCode/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -160,6 +161,7 @@ For my placement purpose
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SANOJIKRAM/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
+| [0697-degree-of-an-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
