@@ -83,6 +83,7 @@ For my placement purpose
 | [1016-subarray-sums-divisible-by-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1104-coloring-a-border](https://github.com/SANOJIKRAM/LeetCode/tree/master/1104-coloring-a-border) |
 | [1293-three-consecutive-odds](https://github.com/SANOJIKRAM/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/SANOJIKRAM/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SANOJIKRAM/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SANOJIKRAM/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -237,6 +238,7 @@ For my placement purpose
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
+| [1306-minimum-absolute-difference](https://github.com/SANOJIKRAM/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 ## Linked List
 |  |
