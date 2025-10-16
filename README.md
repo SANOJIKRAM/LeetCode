@@ -128,6 +128,7 @@ For my placement purpose
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
+| [0851-goat-latin](https://github.com/SANOJIKRAM/LeetCode/tree/master/0851-goat-latin) |
 | [0916-decoded-string-at-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1078-remove-outermost-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/1078-remove-outermost-parentheses) |
