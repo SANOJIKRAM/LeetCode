@@ -262,6 +262,7 @@ For my placement purpose
 | [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
 | [0916-decoded-string-at-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [0983-validate-stack-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0983-validate-stack-sequences) |
@@ -364,6 +365,7 @@ For my placement purpose
 | [0133-clone-graph](https://github.com/SANOJIKRAM/LeetCode/tree/master/0133-clone-graph) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 | [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1104-coloring-a-border](https://github.com/SANOJIKRAM/LeetCode/tree/master/1104-coloring-a-border) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -426,6 +428,7 @@ For my placement purpose
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
 |  |
