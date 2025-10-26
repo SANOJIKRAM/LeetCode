@@ -91,6 +91,7 @@ For my placement purpose
 | [1293-three-consecutive-odds](https://github.com/SANOJIKRAM/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/SANOJIKRAM/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SANOJIKRAM/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SANOJIKRAM/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
@@ -173,6 +174,7 @@ For my placement purpose
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SANOJIKRAM/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 ## Union Find
 |  |
 | ------- |
@@ -403,6 +405,7 @@ For my placement purpose
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 | [0983-validate-stack-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0983-validate-stack-sequences) |
+| [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SANOJIKRAM/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
 |  |
@@ -486,6 +489,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 ## Iterator
 |  |
 | ------- |
