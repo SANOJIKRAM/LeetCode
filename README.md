@@ -26,6 +26,7 @@ For my placement purpose
 | [0319-bulb-switcher](https://github.com/SANOJIKRAM/LeetCode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SANOJIKRAM/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -67,6 +68,7 @@ For my placement purpose
 | [0485-max-consecutive-ones](https://github.com/SANOJIKRAM/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/SANOJIKRAM/LeetCode/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SANOJIKRAM/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/SANOJIKRAM/LeetCode/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
@@ -244,6 +246,7 @@ For my placement purpose
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/SANOJIKRAM/LeetCode/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/SANOJIKRAM/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SANOJIKRAM/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
