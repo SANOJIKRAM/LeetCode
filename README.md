@@ -59,6 +59,7 @@ For my placement purpose
 | [0283-move-zeroes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/SANOJIKRAM/LeetCode/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/SANOJIKRAM/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SANOJIKRAM/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0436-find-right-interval](https://github.com/SANOJIKRAM/LeetCode/tree/master/0436-find-right-interval) |
@@ -422,6 +423,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SANOJIKRAM/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/SANOJIKRAM/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Monotonic Stack
@@ -493,6 +495,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0303-range-sum-query-immutable](https://github.com/SANOJIKRAM/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 ## Iterator
 |  |
