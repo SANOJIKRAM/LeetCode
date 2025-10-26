@@ -67,6 +67,7 @@ For my placement purpose
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/SANOJIKRAM/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/SANOJIKRAM/LeetCode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANOJIKRAM/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -167,6 +168,7 @@ For my placement purpose
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SANOJIKRAM/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/SANOJIKRAM/LeetCode/tree/master/0575-distribute-candies) |
 | [0697-degree-of-an-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -267,6 +269,7 @@ For my placement purpose
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0682-baseball-game) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -426,6 +429,7 @@ For my placement purpose
 | ------- |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
 ## Tree
 |  |
