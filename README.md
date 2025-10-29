@@ -140,6 +140,7 @@ For my placement purpose
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1078-remove-outermost-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SANOJIKRAM/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1764-maximum-repeating-substring](https://github.com/SANOJIKRAM/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1954-replace-all-digits-with-characters](https://github.com/SANOJIKRAM/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
