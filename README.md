@@ -96,6 +96,7 @@ For my placement purpose
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SANOJIKRAM/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SANOJIKRAM/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
 |  |
@@ -180,6 +181,7 @@ For my placement purpose
 | [1016-subarray-sums-divisible-by-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SANOJIKRAM/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Union Find
 |  |
 | ------- |
@@ -260,6 +262,7 @@ For my placement purpose
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
 | [1306-minimum-absolute-difference](https://github.com/SANOJIKRAM/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Linked List
 |  |
 | ------- |
