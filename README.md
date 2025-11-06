@@ -144,6 +144,7 @@ For my placement purpose
 | [1078-remove-outermost-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SANOJIKRAM/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1764-maximum-repeating-substring](https://github.com/SANOJIKRAM/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1954-replace-all-digits-with-characters](https://github.com/SANOJIKRAM/LeetCode/tree/master/1954-replace-all-digits-with-characters) |
@@ -349,6 +350,7 @@ For my placement purpose
 | [0451-sort-characters-by-frequency](https://github.com/SANOJIKRAM/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Enumeration
 |  |
 | ------- |
@@ -378,6 +380,7 @@ For my placement purpose
 | [0678-valid-parenthesis-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 ## Depth-First Search
 |  |
