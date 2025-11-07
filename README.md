@@ -136,6 +136,7 @@ For my placement purpose
 | [0680-valid-palindrome-ii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0749-shortest-completing-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [0851-goat-latin](https://github.com/SANOJIKRAM/LeetCode/tree/master/0851-goat-latin) |
@@ -481,6 +482,7 @@ For my placement purpose
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/SANOJIKRAM/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Heap (Priority Queue)
 |  |
