@@ -24,6 +24,7 @@ For my placement purpose
 | [0268-missing-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SANOJIKRAM/LeetCode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/SANOJIKRAM/LeetCode/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/SANOJIKRAM/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANOJIKRAM/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -339,6 +340,7 @@ For my placement purpose
 | [0021-merge-two-sorted-lists](https://github.com/SANOJIKRAM/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SANOJIKRAM/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
