@@ -98,6 +98,7 @@ For my placement purpose
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SANOJIKRAM/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2518-the-employee-that-worked-on-the-longest-task](https://github.com/SANOJIKRAM/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SANOJIKRAM/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## String
