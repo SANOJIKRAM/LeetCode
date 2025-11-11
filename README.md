@@ -111,6 +111,7 @@ For my placement purpose
 | [0014-longest-common-prefix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SANOJIKRAM/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
@@ -201,6 +202,7 @@ For my placement purpose
 | [0011-container-with-most-water](https://github.com/SANOJIKRAM/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SANOJIKRAM/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/SANOJIKRAM/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0202-happy-number) |
@@ -491,6 +493,7 @@ For my placement purpose
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/SANOJIKRAM/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Heap (Priority Queue)
