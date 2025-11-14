@@ -405,6 +405,7 @@ For my placement purpose
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/SANOJIKRAM/LeetCode/tree/master/0133-clone-graph) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1104-coloring-a-border](https://github.com/SANOJIKRAM/LeetCode/tree/master/1104-coloring-a-border) |
@@ -474,6 +475,7 @@ For my placement purpose
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Search Tree
@@ -482,6 +484,7 @@ For my placement purpose
 | [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -491,6 +494,7 @@ For my placement purpose
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## String Matching
 |  |
