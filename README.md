@@ -402,6 +402,7 @@ For my placement purpose
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/SANOJIKRAM/LeetCode/tree/master/0133-clone-graph) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
@@ -416,6 +417,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/SANOJIKRAM/LeetCode/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
@@ -474,6 +476,7 @@ For my placement purpose
 | [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -494,6 +497,7 @@ For my placement purpose
 | [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
