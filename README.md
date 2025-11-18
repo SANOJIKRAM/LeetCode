@@ -28,6 +28,7 @@ For my placement purpose
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANOJIKRAM/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SANOJIKRAM/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/1013-fibonacci-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1965-sum-of-digits-in-base-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
@@ -257,6 +258,7 @@ For my placement purpose
 | [0401-binary-watch](https://github.com/SANOJIKRAM/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0476-number-complement) |
 | [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SANOJIKRAM/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
