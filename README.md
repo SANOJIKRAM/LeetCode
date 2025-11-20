@@ -86,6 +86,7 @@ For my placement purpose
 | [0749-shortest-completing-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0792-binary-search) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/SANOJIKRAM/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0816-design-hashset](https://github.com/SANOJIKRAM/LeetCode/tree/master/0816-design-hashset) |
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
@@ -188,6 +189,7 @@ For my placement purpose
 | [0697-degree-of-an-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
+| [0816-design-hashset](https://github.com/SANOJIKRAM/LeetCode/tree/master/0816-design-hashset) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SANOJIKRAM/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -287,6 +289,7 @@ For my placement purpose
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/SANOJIKRAM/LeetCode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -534,6 +537,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [0816-design-hashset](https://github.com/SANOJIKRAM/LeetCode/tree/master/0816-design-hashset) |
 ## Graph
 |  |
 | ------- |
@@ -544,6 +548,7 @@ For my placement purpose
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/SANOJIKRAM/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/SANOJIKRAM/LeetCode/tree/master/0816-design-hashset) |
 | [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 ## Iterator
 |  |
