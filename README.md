@@ -310,6 +310,7 @@ For my placement purpose
 | [0020-valid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/SANOJIKRAM/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
 | [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/SANOJIKRAM/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -373,6 +374,7 @@ For my placement purpose
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SANOJIKRAM/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -567,6 +569,7 @@ For my placement purpose
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/SANOJIKRAM/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/SANOJIKRAM/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/SANOJIKRAM/LeetCode/tree/master/0816-design-hashset) |
 | [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
