@@ -510,6 +510,7 @@ For my placement purpose
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANOJIKRAM/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -520,6 +521,7 @@ For my placement purpose
 | [0098-validate-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANOJIKRAM/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -531,6 +533,7 @@ For my placement purpose
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANOJIKRAM/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/SANOJIKRAM/LeetCode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## String Matching
 |  |
@@ -543,6 +546,7 @@ For my placement purpose
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SANOJIKRAM/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANOJIKRAM/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 ## Ordered Set
 |  |
@@ -576,6 +580,7 @@ For my placement purpose
 | [0208-implement-trie-prefix-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/SANOJIKRAM/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/SANOJIKRAM/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANOJIKRAM/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/SANOJIKRAM/LeetCode/tree/master/0816-design-hashset) |
 | [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 ## Iterator
@@ -595,4 +600,8 @@ For my placement purpose
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0258-add-digits) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/SANOJIKRAM/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
