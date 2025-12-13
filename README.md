@@ -155,6 +155,7 @@ For my placement purpose
 | [0824-number-of-lines-to-write-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
 | [0851-goat-latin](https://github.com/SANOJIKRAM/LeetCode/tree/master/0851-goat-latin) |
+| [0859-buddy-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/0859-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/SANOJIKRAM/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [0917-reverse-only-letters](https://github.com/SANOJIKRAM/LeetCode/tree/master/0917-reverse-only-letters) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -204,6 +205,7 @@ For my placement purpose
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/SANOJIKRAM/LeetCode/tree/master/0816-design-hashset) |
 | [0837-most-common-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0837-most-common-word) |
+| [0859-buddy-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/0859-buddy-strings) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/SANOJIKRAM/LeetCode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SANOJIKRAM/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
