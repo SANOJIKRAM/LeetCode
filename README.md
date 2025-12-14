@@ -315,6 +315,7 @@ For my placement purpose
 | ------- |
 | [0020-valid-parentheses](https://github.com/SANOJIKRAM/LeetCode/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/SANOJIKRAM/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0321-create-maximum-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0321-create-maximum-number) |
@@ -433,6 +434,7 @@ For my placement purpose
 | [0104-maximum-depth-of-binary-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/SANOJIKRAM/LeetCode/tree/master/0133-clone-graph) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/SANOJIKRAM/LeetCode/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0733-flood-fill](https://github.com/SANOJIKRAM/LeetCode/tree/master/0733-flood-fill) |
@@ -509,6 +511,7 @@ For my placement purpose
 | [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -532,6 +535,7 @@ For my placement purpose
 | [0101-symmetric-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SANOJIKRAM/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/SANOJIKRAM/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/SANOJIKRAM/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/SANOJIKRAM/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
