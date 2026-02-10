@@ -277,6 +277,7 @@ For my placement purpose
 | [0397-integer-replacement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0397-integer-replacement) |
 | [0401-binary-watch](https://github.com/SANOJIKRAM/LeetCode/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/SANOJIKRAM/LeetCode/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/SANOJIKRAM/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SANOJIKRAM/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0861-flipping-an-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0861-flipping-an-image) |
