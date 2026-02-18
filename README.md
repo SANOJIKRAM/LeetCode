@@ -14,6 +14,7 @@ For my placement purpose
 | [0048-rotate-image](https://github.com/SANOJIKRAM/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SANOJIKRAM/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SANOJIKRAM/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SANOJIKRAM/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SANOJIKRAM/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/SANOJIKRAM/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/SANOJIKRAM/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -126,6 +127,7 @@ For my placement purpose
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SANOJIKRAM/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/SANOJIKRAM/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/SANOJIKRAM/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SANOJIKRAM/LeetCode/tree/master/0091-decode-ways) |
@@ -269,6 +271,7 @@ For my placement purpose
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SANOJIKRAM/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/SANOJIKRAM/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/SANOJIKRAM/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/SANOJIKRAM/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0190-reverse-bits) |
@@ -480,6 +483,7 @@ For my placement purpose
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/SANOJIKRAM/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/SANOJIKRAM/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/SANOJIKRAM/LeetCode/tree/master/0289-game-of-life) |
 | [0415-add-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/0415-add-strings) |
