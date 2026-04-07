@@ -109,6 +109,7 @@ For my placement purpose
 | [1293-three-consecutive-odds](https://github.com/SANOJIKRAM/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/SANOJIKRAM/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2169-simple-bank-system](https://github.com/SANOJIKRAM/LeetCode/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SANOJIKRAM/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2518-the-employee-that-worked-on-the-longest-task](https://github.com/SANOJIKRAM/LeetCode/tree/master/2518-the-employee-that-worked-on-the-longest-task) |
@@ -248,6 +249,7 @@ For my placement purpose
 | [0875-longest-mountain-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/SANOJIKRAM/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SANOJIKRAM/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -309,6 +311,7 @@ For my placement purpose
 | [0883-car-fleet](https://github.com/SANOJIKRAM/LeetCode/tree/master/0883-car-fleet) |
 | [1306-minimum-absolute-difference](https://github.com/SANOJIKRAM/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/2566-number-of-unequal-triplets-in-array) |
 ## Linked List
 |  |
@@ -435,6 +438,7 @@ For my placement purpose
 | [0778-reorganize-string](https://github.com/SANOJIKRAM/LeetCode/tree/master/0778-reorganize-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/SANOJIKRAM/LeetCode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SANOJIKRAM/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Depth-First Search
 |  |
 | ------- |
