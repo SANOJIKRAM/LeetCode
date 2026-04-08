@@ -29,6 +29,7 @@ For my placement purpose
 | [0326-power-of-three](https://github.com/SANOJIKRAM/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/SANOJIKRAM/LeetCode/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/SANOJIKRAM/LeetCode/tree/master/0441-arranging-coins) |
 | [0556-next-greater-element-iii](https://github.com/SANOJIKRAM/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SANOJIKRAM/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SANOJIKRAM/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
@@ -266,6 +267,7 @@ For my placement purpose
 | [0367-valid-perfect-square](https://github.com/SANOJIKRAM/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/SANOJIKRAM/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/SANOJIKRAM/LeetCode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/SANOJIKRAM/LeetCode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/SANOJIKRAM/LeetCode/tree/master/0456-132-pattern) |
 | [0658-find-k-closest-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/SANOJIKRAM/LeetCode/tree/master/0792-binary-search) |
