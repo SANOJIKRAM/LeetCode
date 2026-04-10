@@ -321,6 +321,7 @@ For my placement purpose
 | [0021-merge-two-sorted-lists](https://github.com/SANOJIKRAM/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0203-remove-linked-list-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/SANOJIKRAM/LeetCode/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -383,6 +384,7 @@ For my placement purpose
 | ------- |
 | [0010-regular-expression-matching](https://github.com/SANOJIKRAM/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/SANOJIKRAM/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/SANOJIKRAM/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/SANOJIKRAM/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/SANOJIKRAM/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SANOJIKRAM/LeetCode/tree/master/0326-power-of-three) |
